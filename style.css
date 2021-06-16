@@ -70,7 +70,7 @@ body{
 }
 
 .menu-icon:hover{
-    background-color: lightslategray;
+    background-color: #cfcbcb;
     height: 100%;
     cursor: pointer;
 }
@@ -238,7 +238,7 @@ body{
 }
 
 .menu-icon.selected{
-    background-color: lightgray;
+    background-color: rgb(168, 166, 166);
     height: 100%;
     display: flex;
 }
